@@ -6,5 +6,4 @@ struct Pancakes;
 
 fn main() {
     Pancakes::hello_macro();
-    UserInfo::hello_macro();
 }
